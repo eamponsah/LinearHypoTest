@@ -17,7 +17,7 @@
 Returns results of hypothesis testing for a single linear combination
 }
 \description{
-Used to conduct a hypothesis testa of a single linear combination of parameters in a regression model.
+Used to conduct a hypothesis test of a single linear combination of parameters in a regression model.
 }
 \examples{
 lm.fit <- lm(Sepal.Length ~Sepal.Width+Petal.Width, data=iris)
