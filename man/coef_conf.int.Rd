@@ -11,7 +11,7 @@ coef_conf.int(model, coef_test, conf.level = 0.95)
 
 \item{conf.level}{confidence level;}
 
-\item{coef.test}{vector specifying linear combination to test;}
+\item{coef.test}{vector specifying linear combination of regression parameters for which a confidence interval is desired;}
 }
 \value{
 Returns results of confidence interval for a single linear combination
