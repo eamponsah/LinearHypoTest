@@ -17,7 +17,7 @@ f.test_coef(model, coef_test, hypo_values)
 Returns results of hypothesis testing for multiple linear combinations
 }
 \description{
-Used to conduct an hypothesis testing of a one or more linear combinations of parameters in a regression model.
+Used to conduct a hypothesis test of a one or more linear combinations of parameters in a regression model.
 }
 \examples{
 lm.fit <- lm(Sepal.Length ~Sepal.Width+Petal.Width, data=iris)
